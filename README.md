@@ -1,8 +1,6 @@
 ## Hi there 👋 
 
-### My name is Federico, and I'm an AI Engineer.
-
-I bring a unique blend of technical expertise and classical scholarship to the table, with:
+### My name is Federico, and I'm an AI Engineer with expertise in humanities scholarship:
 - 🎓 A **B.Sc. in Software Engineering** 🤖 
 - 🏺 A **Ph.D. in Classical Languages** 📜
 
