@@ -1,8 +1,8 @@
 ## Hi there 👋 
 
 ### My name is Federico, and I'm an AI Engineer with expertise in humanities scholarship:
-- 🎓 A **B.Sc. in Software Engineering** 🤖 
-- 🏺 A **Ph.D. in Classical Languages** 📜
+- 🎓 **B.Sc. in Software Engineering** 🤖 
+- 🏺 **Ph.D. in Classical Languages** 📜
 
 ### What I'm working on:
 - 🔭 **Developing domain-specific GenAI applications** tailored for researchers and scholars.
